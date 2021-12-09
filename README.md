@@ -16,6 +16,7 @@
 # Backlog
 * Custom Workouts
 * Progress Tracking
+* Review
 
 # Client
 
@@ -23,7 +24,8 @@
 * / - Home
 * /signin
 * /signup
-* /profile/:id
+* /profile
+* /trainers/:trainerId
 * /shop
 * /workout/:workoutId
 
@@ -44,10 +46,11 @@
 * /api/login
 * /api/signup
 * /api/logout
-* /api/creatework
+* /api/creatework => POST
 * /api/workoutlist
 * ...
 ## Models
 * User Model
-* Coach Model
+* Coach Model?
 * Workout Model
+* Reviews
