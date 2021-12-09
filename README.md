@@ -46,6 +46,7 @@
 * /api/logout
 * /api/creatework
 * /api/workoutlist
+* ...
 ## Models
 * User Model
 * Coach Model
